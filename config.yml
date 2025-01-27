@@ -1,0 +1,33 @@
+data:
+  proxies:
+    use_proxies : "yes" #yes or no
+    Xsession:
+      login: '' # 0 for login else none
+      proxyType: '' # static or residental
+    Ysession:
+      login: ''
+      auth_type: '' # static or residental
+      purchase: '0'
+      purchase_type: 'residental' # static or residental
+  product_data:
+    productId : '9NXP44L49SHJ'
+    skuId : '0010'
+    receiveMail : 'Shivamji84848@gmail.com'
+  threading:
+    threadCount : '50'
+    
+# tools in this for now is: Silent X: Fetcher, Silent Y: Purchaser
+#ardaxgnr:arda45tr_country-sg@geo.iproyal.com:12321
+#04RqdeGI-cc-ccus:pas8Tw6B@pa-chicooked-US.ntnt.network:5959
+#b9ljnxart9fucph-country-us:zj9rhbd58wnva89@rp.proxyscrape.com:6060
+#Seuda2:Sud837dDyeE6Sh@ca-proxies.aticonn.me:3000
+#wlhqh7mq18qrgyr:h2pl7s8692fqamc@172.65.64.100:6060
+#C0F5HT9NV86P | 0X3J || V-BUCKS
+#9NQGKTXR9BZF | 0010 || MINECRAFT DELUXE + JAVA + BEDROCK
+#9NXP44L49SHJ | 0010 || MINECRAFT JAVA + BEDROCK
+#9N5253J559LR | 0010 || Five Nights at Freddy's
+#BS5KH5D3QQWV | 0X3J || 400 Robux for Xbox
+#9ng07qjnk38j | 0010 || AMONG US
+#9pcm4cmtppgc | 0010 || LIES OF P
+#9nmpdq2nrx34 | 0010 || STRAY
+#CFQ7TTC0KHS0 | 0008 || xbox gp 3 month $49.99
